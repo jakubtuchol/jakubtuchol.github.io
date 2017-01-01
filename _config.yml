@@ -1,0 +1,13 @@
+# Site settings
+title: Jakub Tucholski
+email: jtucholski00@gmail.com
+description: >
+  Personal site of Jakub Tucholski. Talks about scalability engineering, 
+  machine learning, and the business of tech.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jakubtuchol.github.io" 
+twitter_username: jakubtuchol
+github_username:  jakubtuchol
+
+# Build settings
+markdown: kramdown
