@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm a student at the University of Chicago, finishing a degree in Computer Science and Statistics. In a past life, I was a project manager in a number of small Chinese edtech firms. Now, I work as an engineer. I've cycled through a number of internships, having working at [Twitter](https://twitter.com/), [Sumo Logic](https://www.sumologic.com/), and [Yelp](http://www.yelp.com/).
+I'm a recent graduate from the University of Chicago. I've been working as a software engineer for several years now. I've interned at [Houzz](https://houzz.com), [Yelp](http://www.yelp.com/), [Sumo Logic](https://www.sumologic.com/), and [Twitter](https://twitter.com/).
