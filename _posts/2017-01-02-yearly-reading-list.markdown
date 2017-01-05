@@ -21,6 +21,14 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * I admit, I picked this primarily because I wanted something short to prepare before the next monster. It's a strange book, colored primarily by the detachment of Mersault, and his total detachment from the world. It will probably take a couple more reads to appreciate it fully, but for now, it merely remains disquieting rather than profound.
 
+4) [**The Industries of the Future** by *Alec Ross*]()
+
+* This was another quick read to balance out tearing through a 600+ page history of the CIA. Thankfully, I was pleasantly surprised. Ross builds an inspiring and hugely optimistic view of the next 50 years, but does it in a way that's very well balanced. He focuses on the downsides of and roadblocks to many of the innovations he talks about in a way that's far more nuanced than most innovation-focused books. I loved this and would recommend it to anyone with a passing interest in technology and the future.
+
+5) [**Legacy of Ashes: The History of the CIA** by *Tim Weiner*]()
+
+* This book is utterly brilliant.
+
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
