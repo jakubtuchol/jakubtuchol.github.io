@@ -26,8 +26,13 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 * This was another quick read to balance out tearing through a 600+ page history of the CIA. Thankfully, I was pleasantly surprised. Ross builds an inspiring and hugely optimistic view of the next 50 years, but does it in a way that's very well balanced. He focuses on the downsides of and roadblocks to many of the innovations he talks about in a way that's far more nuanced than most innovation-focused books. I loved this and would recommend it to anyone with a passing interest in technology and the future.
     * Also worth reading is a brutal critique of the book by a man who Ross refers to in the book as a "Luddite Harvard graduate student". Critique found [here][industries_critique].
 
+5) [**Legacy of Ashes: The History of the CIA** by *Tim Weiner*][legacy_ashes]
+
+* An absolute riveting indictment of the CIA. Weiner is almost too relentless in examining every failure of the CIA, and the portrait that emerges is utterly scathing.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
 [industries]:          https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753652
 [industries_critique]: http://thebaffler.com/salvos/made-a-moron
+[legacy_ashes]:        https://www.amazon.com/Legacy-Ashes-History-Tim-Weiner/dp/0307389006
