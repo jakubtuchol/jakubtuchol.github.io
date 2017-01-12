@@ -30,9 +30,14 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * An absolute riveting indictment of the CIA. Weiner is almost too relentless in examining every failure of the CIA, and the portrait that emerges is utterly scathing.
 
+6) [**To Kill a Mockingbird** by *Harper Lee*][kill_mockingbird]
+
+* Despite growing up in Alabama, I never read this book during all my years of primary schooling. It's pretty good, though the problem with such "classic" novels is that time and overexposure often robs them of their power. It's a good book, though not quite as riveting as its reputation suggests.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
 [industries]:          https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753652
 [industries_critique]: http://thebaffler.com/salvos/made-a-moron
 [legacy_ashes]:        https://www.amazon.com/Legacy-Ashes-History-Tim-Weiner/dp/0307389006
+[kill_mockingbird]:    https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786
