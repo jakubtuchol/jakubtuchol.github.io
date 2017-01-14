@@ -36,7 +36,7 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 7) [**The Man Without a Face: The Unlikely Rise of Vladimir Putin** by *Masha Gessen*][man_face]
 
-* I came into this book expecting something approaching a biography of Putin, but instead found a book-length account of his follies and abuses. Though I wish the book had been more focused and provided a bit more insight into Putin himself, I did learn quite a bit about modern Russian history (specifically incidents that may or may not have been ordered or perpetrated by Putin). I also wish this book had provided me with a bit more insight into the current state and pulse of Russian society with relation to Putin, but I'll settle for the book-length polemic agains the Putin regime that I found.
+* I came into this book expecting something approaching a biography of Putin, but instead found a book-length account of his follies and abuses. Though I wish the book had been more focused and provided a bit more insight into Putin himself, I did learn quite a bit about modern Russian history (specifically incidents that may or may not have been ordered or perpetrated by Putin). I also wish this book had provided me with a bit more insight into the current state and pulse of Russian society with relation to Putin, but I'll settle for the book-length polemic against the Putin regime that I found.
 
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
