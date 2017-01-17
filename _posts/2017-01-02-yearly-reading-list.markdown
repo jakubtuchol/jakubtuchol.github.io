@@ -38,6 +38,10 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * I came into this book expecting something approaching a biography of Putin, but instead found a book-length account of his follies and abuses. Though I wish the book had been more focused and provided a bit more insight into Putin himself, I did learn quite a bit about modern Russian history (specifically incidents that may or may not have been ordered or perpetrated by Putin). I also wish this book had provided me with a bit more insight into the current state and pulse of Russian society with relation to Putin, but I'll settle for the book-length polemic against the Putin regime that I found.
 
+8) [**Submission** by *Michel Houellebecq*][submission]
+
+* This book is nuts. It's a picture of a man who is completely lost and detached from the world outside him. While I was expecting this to play out much like Thomas Bernhard's *The Loser*, the way in which the narrator is drawn into political events around him turns it into something which I cannot completely grasp. I have read very few books with this much intelligence and guts.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -46,3 +50,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [legacy_ashes]:        https://www.amazon.com/Legacy-Ashes-History-Tim-Weiner/dp/0307389006
 [kill_mockingbird]:    https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786
 [man_face]:            https://www.amazon.com/Man-Without-Face-Unlikely-Vladimir/dp/1594486514
+[submission]:          https://www.amazon.com/Submission-Novel-Michel-Houellebecq/dp/0374271577
