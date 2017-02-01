@@ -42,6 +42,10 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * This book is nuts. It's a picture of a man who is completely lost and detached from the world outside him. While I was expecting this to play out much like Thomas Bernhard's *The Loser*, the way in which the narrator is drawn into political events around him turns it into something which I cannot completely grasp. I have read very few books with this much intelligence and guts.
 
+9) [**The Corrections** by *Jonathan Franzen*][corrections]
+
+* This is my second or third read of this book, and it remains one of the best novels I have ever read. It's psychedelic, all-encompassing, a bit unreadable at points (there are only so many times I want to read about Alfred Lambert wetting himself). But it's also generous and creates characters that I legitimately cared deeply about. And it also manages to wring emotion from the unlikeliest of places. Definitely worth the reread.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -51,3 +55,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [kill_mockingbird]:    https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786
 [man_face]:            https://www.amazon.com/Man-Without-Face-Unlikely-Vladimir/dp/1594486514
 [submission]:          https://www.amazon.com/Submission-Novel-Michel-Houellebecq/dp/0374271577
+[corrections]:         https://www.amazon.com/Corrections-Novel-Jonathan-Franzen/dp/0312421273
