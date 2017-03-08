@@ -46,6 +46,10 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * This is my second or third read of this book, and it remains one of the best novels I have ever read. It's psychedelic, all-encompassing, a bit unreadable at points (there are only so many times I want to read about Alfred Lambert wetting himself). But it's also generous and creates characters that I legitimately cared deeply about. And it also manages to wring emotion from the unlikeliest of places. Definitely worth the reread.
 
+10) [**Modern Romance** by *Aziz Ansari*][modern_romance]
+
+* Well that was unexpected. I picked up this book expecting to get a breezy humor book, but instead found a suprisingly thoughtful and thorough examination of how technology and modern life are changing love and romance. I was surprised at how much time and effort Ansari put into this, even recruting a sociologist to be co-author. A quick and worthwhile read, and one that I learned a thing or two from. Who knows, maybe it's time to up my Tinder game?
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -56,3 +60,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [man_face]:            https://www.amazon.com/Man-Without-Face-Unlikely-Vladimir/dp/1594486514
 [submission]:          https://www.amazon.com/Submission-Novel-Michel-Houellebecq/dp/0374271577
 [corrections]:         https://www.amazon.com/Corrections-Novel-Jonathan-Franzen/dp/0312421273
+[modern_romance]:      https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251
