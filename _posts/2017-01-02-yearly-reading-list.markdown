@@ -50,6 +50,10 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Well that was unexpected. I picked up this book expecting to get a breezy humor book, but instead found a suprisingly thoughtful and thorough examination of how technology and modern life are changing love and romance. I was surprised at how much time and effort Ansari put into this, even recruting a sociologist to be co-author. A quick and worthwhile read, and one that I learned a thing or two from. Who knows, maybe it's time to up my Tinder game?
 
+11) [**Barbarian Days: A Surfing Life** by *William Finnegan*][barbarian_days]
+
+* This is one of the most extraordinary books I have ever read. It's rare to read something that's so clearly about a subject that the author is completely obsessed with. Finnegan writes about a life that is so well-lived that it is inspiring. He also seems to have an extraordinary ability to remember every detail of seemingly every wave that he ever surfed. It's not often that someone else's passion can feel so life-changing and life-affirming, but that's ultimately what this book is: a life-length love letter to a little-understood sport.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -61,3 +65,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [submission]:          https://www.amazon.com/Submission-Novel-Michel-Houellebecq/dp/0374271577
 [corrections]:         https://www.amazon.com/Corrections-Novel-Jonathan-Franzen/dp/0312421273
 [modern_romance]:      https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251
+[barbarian_days]:      https://www.amazon.com/Barbarian-Days-Surfing-William-Finnegan/dp/0143109391
