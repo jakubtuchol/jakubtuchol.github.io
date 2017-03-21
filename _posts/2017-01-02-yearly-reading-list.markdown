@@ -54,6 +54,14 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * This is one of the most extraordinary books I have ever read. It's rare to read something that's so clearly about a subject that the author is completely obsessed with. Finnegan writes about a life that is so well-lived that it is inspiring. He also seems to have an extraordinary ability to remember every detail of seemingly every wave that he ever surfed. It's not often that someone else's passion can feel so life-changing and life-affirming, but that's ultimately what this book is: a life-length love letter to a little-understood sport.
 
+12) [**Strangers in Their Own Land: Anger and Mourning on the American Right** by *Arlie Russell Hochschild*][strangers_land]
+
+* TBD
+
+13) [**Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by *J. D. Vance*][hillbilly_elegy]
+
+* TBD
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -66,3 +74,5 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [corrections]:         https://www.amazon.com/Corrections-Novel-Jonathan-Franzen/dp/0312421273
 [modern_romance]:      https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251
 [barbarian_days]:      https://www.amazon.com/Barbarian-Days-Surfing-William-Finnegan/dp/0143109391
+[strangers_land]:      https://www.amazon.com/Strangers-Their-Own-Land-Mourning/dp/1620972255
+[hillbilly_elegy]:     https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547
