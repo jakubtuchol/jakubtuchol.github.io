@@ -52,15 +52,19 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 11) [**Barbarian Days: A Surfing Life** by *William Finnegan*][barbarian_days]
 
-* This is one of the most extraordinary books I have ever read. It's rare to read something that's so clearly about a subject that the author is completely obsessed with. Finnegan writes about a life that is so well-lived that it is inspiring. He also seems to have an extraordinary ability to remember every detail of seemingly every wave that he ever surfed. It's not often that someone else's passion can feel so life-changing and life-affirming, but that's ultimately what this book is: a life-length love letter to a little-understood sport.
+* This is one of the most extraordinary books I have ever read. It's rare to read something that's so clearly about a subject that the author is completely obsessed with. Finnegan writes about a life that is so well-lived that it is inspiring. He also seems to have an extraordinary ability to remember every detail of seemingly every wave that he ever surfed. It's not often that someone else's passion can feel so life-changing and life-affirming, but that's ultimately what this book is: a life-length love letter to a little-understood art.
 
 12) [**Strangers in Their Own Land: Anger and Mourning on the American Right** by *Arlie Russell Hochschild*][strangers_land]
 
-* TBD
+* Another day, another incredible book. Hochschild, despite being the classic liberal stereotype (Berkeley sociology professor), went into Louisiana for 5 years and came out of it with one of the most moving and illustrative books about the South ever written. Within the space of about 240 pages, Hochschild explains Southern attitudes towards business, the environment, religion, and so much more. In particular, the 11th chapter is an extraordinary account of the beliefs of conservatives that it had me in tears. Highly recommended for anyone who wants to understand the other side of the political spectrum.
 
-13) [**Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by *J. D. Vance*][hillbilly_elegy]
+13) [**Playing to the Edge: American: Intelligence in the Age of Terror** by *Michael Hayden*][playing_edge]
 
-* TBD
+* Michael Hayden is a man who does not pull a whole lot of punches. In this incredible memoir, he tells his side of the story as one of the most senior officials in the US intelligence community during the Bush Administration. While I've heard and read mountains criticizing various programs put in place and continued under Hayden, it's fascinating to hear his accounts of these programs. And it's equally fascinating to see how both sides of the story are essentially right. Yes, many of the programs Hayden oversaw and put in place argualy paved the way for the erosion of American civil liberties and America's moral standing internationally. Yes, these programs may have been the best possible choices taken by experienced men and women who wanted nothing more than to serve and protect their country in extraordinary and trying circumstances. It seems that the controversy surrounding many of these issues may be the reason why this book can't seem to get a single fair review, but that doesn't mean it's not worth reading.
+
+14) [**Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by *J. D. Vance*][hillbilly_elegy]
+
+* This book hit hard. While I'm not sure I completely agree with Vance's "pick yourself up by the bootstraps" message to the American working class, I found large chunks of his story almost uncomfortably familiar. It's a hell of a book, and a hell of a life.
 
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
@@ -75,4 +79,5 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [modern_romance]:      https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251
 [barbarian_days]:      https://www.amazon.com/Barbarian-Days-Surfing-William-Finnegan/dp/0143109391
 [strangers_land]:      https://www.amazon.com/Strangers-Their-Own-Land-Mourning/dp/1620972255
+[playing_edge]:        https://www.amazon.com/Playing-Edge-American-Intelligence-Terror/dp/1594206562
 [hillbilly_elegy]:     https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547
