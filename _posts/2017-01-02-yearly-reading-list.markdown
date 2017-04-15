@@ -66,6 +66,10 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * This book hit hard. While I'm not sure I completely agree with Vance's "pick yourself up by the bootstraps" message to the American working class, I found large chunks of his story almost uncomfortably familiar. It's a hell of a book, and a hell of a life.
 
+15) [**Freedom** by *Jonathan Franzen*][freedom]
+
+* As most Franzen novels, *Freedom* is brilliant. There are moments when its information-overload style becomes a bit monotonous, and its self-loathing characters become a bit much, but any rough edges the book may have are redeemed by the last 50 pages, which comprise the most redemptive about-face in American literature. Franzen still manages to be one of the few that manage to write serious novels this readable.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -81,3 +85,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [strangers_land]:      https://www.amazon.com/Strangers-Their-Own-Land-Mourning/dp/1620972255
 [playing_edge]:        https://www.amazon.com/Playing-Edge-American-Intelligence-Terror/dp/1594206562
 [hillbilly_elegy]:     https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547
+[freedom]:             https://www.amazon.com/Freedom-Novel-Oprahs-Book-Club/dp/0312576463
