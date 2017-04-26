@@ -70,6 +70,11 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * As most Franzen novels, *Freedom* is brilliant. There are moments when its information-overload style becomes a bit monotonous, and its self-loathing characters become a bit much, but any rough edges the book may have are redeemed by the last 50 pages, which comprise the most redemptive about-face in American literature. Franzen still manages to be one of the few that manage to write serious novels this readable.
 
+16) [**Neuromancer** by *William Gibson*][neuromancer]
+
+* This one is a trip. I'd be remiss if I implied that I had any idea of what was going on here, but *Neuromancer* is nothing if not insane. Despite my confusion, Gibson's prose and his strange visions of bombed-out hackers and space ports kept me going. Definitely a book I'll have to reread.
+
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -86,3 +91,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [playing_edge]:        https://www.amazon.com/Playing-Edge-American-Intelligence-Terror/dp/1594206562
 [hillbilly_elegy]:     https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547
 [freedom]:             https://www.amazon.com/Freedom-Novel-Oprahs-Book-Club/dp/0312576463
+[neuromancer]:         https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595
