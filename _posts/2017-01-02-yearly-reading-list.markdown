@@ -80,7 +80,7 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 18) [**The Circle** by *Dave Eggers*][the_circle]
 
-* Dear God, I hated this book. Eggers desperately wants this book to be **1984**, but doesn't fails to create any compelling characters, explore any ideas beyond the most tired anti-Facebook tropes, and is nowhere near as funny as he wants to be. The novel's plot points make daytime soap operas seems plausible, and I hated every single person in this book. At least it's a quick read, so you don't have to wallow in this garbage too long.
+* Dear God, I hated this book. Eggers desperately wants this book to be **1984**, but fails to create any compelling characters, explore any ideas beyond the most tired anti-Facebook tropes, and is nowhere near as funny as he wants to be. The novel's plot points make daytime soap operas seem plausible, and I hated every single person in this book. At least it's a quick read, so you don't have to wallow in this garbage for too long.
 
 
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
