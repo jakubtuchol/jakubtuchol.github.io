@@ -74,6 +74,14 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * This one is a trip. I'd be remiss if I implied that I had any idea of what was going on here, but *Neuromancer* is nothing if not insane. Despite my confusion, Gibson's prose and his strange visions of bombed-out hackers and space ports kept me going. Definitely a book I'll have to reread.
 
+17) [**American War** by *Omar El Akkad*][american_war]
+
+* Leave it to an immigrant to write one of the most fascinating American novels. El Akkad does an extraordinary job finding what makes this country tick, and creates a plausible future history for the US, creating a scifi reality that feels deeply plausible. And he anchors it around a character that I grew to care about and understand, even as her actions became progressively more unforgivable. An extraordinary debut.
+
+18) [**The Circle** by *Dave Eggers*][the_circle]
+
+* Dear God, I hated this book. Eggers desperately wants this book to be **1984**, but doesn't fails to create any compelling characters, explore any ideas beyond the most tired anti-Facebook tropes, and is nowhere near as funny as he wants to be. The novel's plot points make daytime soap operas seems plausible, and I hated every single person in this book. At least it's a quick read, so you don't have to wallow in this garbage too long.
+
 
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
@@ -92,3 +100,5 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [hillbilly_elegy]:     https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547
 [freedom]:             https://www.amazon.com/Freedom-Novel-Oprahs-Book-Club/dp/0312576463
 [neuromancer]:         https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595
+[american_war]:        https://www.amazon.com/American-War-Omar-El-Akkad/dp/0451493583
+[the_circle]:          https://www.amazon.com/Circle-Dave-Eggers/dp/0345807294
