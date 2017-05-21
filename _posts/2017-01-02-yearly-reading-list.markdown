@@ -82,6 +82,17 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Dear God, I hated this book. Eggers desperately wants this book to be **1984**, but fails to create any compelling characters, explore any ideas beyond the most tired anti-Facebook tropes, and is nowhere near as funny as he wants to be. The novel's plot points make daytime soap operas seem plausible, and I hated every single person in this book. At least it's a quick read, so you don't have to wallow in this garbage for too long.
 
+19) [**Ancillary Justice** by *Ann Leckie*][ancillary_justice]
+
+* This is the best novel I have read thus far this year. Leckie's masterful debut contains volumes, managing to explore everything from gender to identity to the fall of empires. It's an extraordinary book, belying its puly roots with intelligence and a hell of a story.
+
+20) [**Evicted: Poverty and Profit in the American City** by *Matthew Desmond*][evicted]
+
+* Absolutely one of the finest books I have ever read about poverty. Desmond keeps policy recommendations towards the end, and allows finely drawn and unflinching narrations of the everyday lives of the poor to tell most of the story. What results is a book about housing that is absolutely wrenching, but never loses sight of the humanity inherent in all these stories.
+
+21) [**Under the Dome** by *Stephen King*][under_dome]
+
+* This book is a pretty strong reminder of the best and worst of Stephen King. It's a gripping read, one of the few thousand-page books that I've finished in under a week. King manages to pack each chapter with revelations and cliffhangers, and for most of the book's going, it's an absolute blast. But any book this large is excessive by definition, and there are plenty of places where the story drags. By the time the explosive climax came along, I desperately wanted the story to end, and the extra hundred or so pages dedicated to the slow suffocation of the town was far too much. Combine that with the abrupt ending, and you have a book that's a bit too fond of torturing its characters.
 
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
@@ -102,3 +113,6 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [neuromancer]:         https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595
 [american_war]:        https://www.amazon.com/American-War-Omar-El-Akkad/dp/0451493583
 [the_circle]:          https://www.amazon.com/Circle-Dave-Eggers/dp/0345807294
+[ancillary_justice]:   https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X
+[evicted]:             https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447432
+[under_dome]:          https://www.amazon.com/Under-Dome-Novel-Stephen-King/dp/1476735476
