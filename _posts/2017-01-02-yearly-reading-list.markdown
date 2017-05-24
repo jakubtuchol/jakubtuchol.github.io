@@ -94,6 +94,10 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * This book is a pretty strong reminder of the best and worst of Stephen King. It's a gripping read, one of the few thousand-page books that I've finished in under a week. King manages to pack each chapter with revelations and cliffhangers, and for most of the book's going, it's an absolute blast. But any book this large is excessive by definition, and there are plenty of places where the story drags. By the time the explosive climax came along, I desperately wanted the story to end, and the extra hundred or so pages dedicated to the slow suffocation of the town was far too much. Combine that with the abrupt ending, and you have a book that's a bit too fond of torturing its characters.
 
+22) [**Ghettoside: A True Story of Murder in America** by *Jill Leovy*][ghettoside]
+
+* It's rare that a book completely changes my view on something, but *Ghettoside* succeeded in changing my view of policing in the US. While the dominant public narrative is that we have too much policing which disproportionately targets communities of color, Leovy argues that America's epidemic rates of black-on-black homicide are due to a lack of policing for these homicides. While Leovy doesn't make a strong case using historic trends or data, she does string together threads of a compelling argument on the micro-scale, focusing on the single case of an LAPD detective's murdered son, and the journey to find and prosecute his killers. While Leovy doesn't necessarily show that thorough investigation and prosecution leads to decreased murder rates, the picture she paints of murder in South Central LA and the individual stories she tells are more than compelling enough. While not 100% convincing, this book remains absolutely brilliant.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -116,3 +120,4 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [ancillary_justice]:   https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X
 [evicted]:             https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447432
 [under_dome]:          https://www.amazon.com/Under-Dome-Novel-Stephen-King/dp/1476735476
+[ghettoside]:          https://www.amazon.com/Ghettoside-True-Story-Murder-America/dp/0385529996
