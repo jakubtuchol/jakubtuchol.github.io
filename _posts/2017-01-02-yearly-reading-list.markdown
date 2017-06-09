@@ -98,6 +98,19 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * It's rare that a book completely changes my view on something, but *Ghettoside* succeeded in changing my view of policing in the US. While the dominant public narrative is that we have too much policing which disproportionately targets communities of color, Leovy argues that America's epidemic rates of black-on-black homicide are due to a lack of policing for these homicides. While Leovy doesn't make a strong case using historic trends or data, she does string together threads of a compelling argument on the micro-scale, focusing on the single case of an LAPD detective's murdered son, and the journey to find and prosecute his killers. While Leovy doesn't necessarily show that thorough investigation and prosecution leads to decreased murder rates, the picture she paints of murder in South Central LA and the individual stories she tells are more than compelling enough. While not 100% convincing, this book remains absolutely brilliant.
 
+23) [**The Windup Girl** by *Paolo Bacigalupi*][windup_girl]
+
+* This book was so brilliant that I immediately purchased a collection of Bacigalupi's short stories. Like *Ancillary Justice*, *The Windup Girl* uses an excruciatingly detailed world to explore issues far too numerous to list. Imperialism, orientalism, environmentalism: all of these are explored within the book, but never in a way that's preachy or pedantic. Bacigalupi simply uses well-drawn characters and even more well-drawn world to extrapolate what is happening now into a future that feels entirely too real. There were scenes of brutality that were a bit too extreme for my tastes, but Bacigalupi's characters feel fare more nuanced and real than most novels I've read. An absolutely brilliant novel.
+
+24) [**Stories of Your Life and Others** by *Ted Chiang*][story_life]
+
+* I can defintely understand Ted Chiang's stature in the science fiction community after reading this collection. Inherently, as a collection of stories, there were definitely stories I enjoyed far more than others, but on the whole, this was an incredible collection of stories. Many of these brought to mind Borges, using rigorous investigations of fantastical premises to explore the limits of the human experience. Particularly, "Understand", "Hell Is the Absence of God", and "Story of Your Life" are among the best things I have read in my life.
+
+25) [**American Gods** by *Neil Gaiman*][american_gods]
+
+* I'm not sure I fully processed Gaiman's novel, but it's certainly a hell of a trip. Gaiman presents small-town America as the home for ancient gods, and creates a world where the magical and the mundane reside side-by-side. Much of the power comes from the hallucinatory images and prose, as well as Gaiman's exploration of themes far larger than you get in the average novel. Love, death, and immigration are thoroughly plumbed throughout the course of the story, and Gaiman twists classic tropes into near-unrecognizable shapes as he explores these themes. Definitely warrants another read.
+
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -121,3 +134,6 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [evicted]:             https://www.amazon.com/Evicted-Poverty-Profit-American-City/dp/0553447432
 [under_dome]:          https://www.amazon.com/Under-Dome-Novel-Stephen-King/dp/1476735476
 [ghettoside]:          https://www.amazon.com/Ghettoside-True-Story-Murder-America/dp/0385529996
+[windup_girl]:         https://www.amazon.com/Windup-Girl-Paolo-Bacigalupi/dp/1597801585
+[story_life]:          https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122
+[american_gods]:       https://www.amazon.com/American-Gods-Tenth-Anniversary-Novel/dp/0062472100
