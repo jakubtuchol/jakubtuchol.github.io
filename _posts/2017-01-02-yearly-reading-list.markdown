@@ -110,6 +110,13 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * I'm not sure I fully processed Gaiman's novel, but it's certainly a hell of a trip. Gaiman presents small-town America as the home for ancient gods, and creates a world where the magical and the mundane reside side-by-side. Much of the power comes from the hallucinatory images and prose, as well as Gaiman's exploration of themes far larger than you get in the average novel. Love, death, and immigration are thoroughly plumbed throughout the course of the story, and Gaiman twists classic tropes into near-unrecognizable shapes as he explores these themes. Definitely warrants another read.
 
+26) [**Pump Six and Other Stories** by *Paolo Bacigalupi*][pump_six]
+
+* *The Windup Girl* had me so taken in that I couldn't help but grab another of Bacigalupi's books, and **Pump Six** does not disapoint. As expected from a short-story collection, some stories are better than others, though the quality is generally so high in this book that it's almost mind-melting. *The Fluted Girl*, *The People of Sand and Slag*, and *Pump Six* are particularly incredible, as are *The Calorie Man* and *Yellow Card Man*, two stories that directly tie into the world of *The Windup Girl*. But for my money, *Pop Squad* is one of the most horrendous and incredible things I have ever read. The logic of the tale is impeccable, though it's incredible how it crafts conclusions that are simultaneously inescapable and utterly monstrous. Definitely worth reading.
+
+27) [**Ninefox Gambit** by *Yoon Ha Lee*][ninefox_gambit]
+
+* Holy shit. This books is absolutely incredible. While the going is as rough as many reviews have claimed (Lee doesn't particularly enjoy explaining the details of her incredibly complex worlds outright), the story and world that emerges is absolutely mindblowing. The mixture of math, magic, politics, and betrayal is absolutely riveting, and I couldn't put the book down after the first 10 pages (I had also done a good bit of research firsthand, and had a reasonably good understanding of what was happening in the world). I cannot recommend this book highly enough: it rivals *Ancillary Justice* as the best novel I have read this year.
 
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
@@ -137,3 +144,5 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [windup_girl]:         https://www.amazon.com/Windup-Girl-Paolo-Bacigalupi/dp/1597801585
 [story_life]:          https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122
 [american_gods]:       https://www.amazon.com/American-Gods-Tenth-Anniversary-Novel/dp/0062472100
+[pump_six]:            https://www.amazon.com/Pump-Other-Stories-Paolo-Bacigalupi/dp/1597802026
+[ninefox_gambit]:      https://www.amazon.com/Ninefox-Gambit-Yoon-Ha-Lee/dp/1781084491
