@@ -118,6 +118,18 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Holy shit. This books is absolutely incredible. While the going is as rough as many reviews have claimed (Lee doesn't particularly enjoy explaining the details of her incredibly complex worlds outright), the story and world that emerges is absolutely mindblowing. The mixture of math, magic, politics, and betrayal is absolutely riveting, and I couldn't put the book down after the first 10 pages (I had also done a good bit of research firsthand, and had a reasonably good understanding of what was happening in the world). I cannot recommend this book highly enough: it rivals *Ancillary Justice* as the best novel I have read this year.
 
+28) [**One of Us: The Story of a Massacre in Norway -- and Its Aftermath** by *Åsne Seierstad*][one_of_us]
+
+* This book certainly doesn't pull any punches. It's very difficult to write clearly about this book, primarily because it's an incredible book about an unspeakable topic. While the perpetrator's story is probably the primary focus of the book, I greatly appreciated how Seierstad really attempted to make the book about and for the victims of the Norwegian attacks. I learned quite a bit about Norwegian politics and society, as well as about the incident itself, but it's hard to recommend a book about something so horrendous (incredible as it may be).
+
+29) [**Ancillary Sword** by *Ann Leckie*][ancillary_sword]
+
+* I was thoroughly disappointed by Ann Leckie's follow-up to *Ancillary Justice*. While I can respect her desire to examine the Raadch empire at a far more micro scale, I really wanted to know more about Anaander Mianaai and the civil war going on. Leckie instead takes us to a backwater station totally removed from the events that actually matter. Honestly, as well-written as this book was, I was just bored.
+
+30) [**The Left Hand of Darkness** by *Ursula K. Le Guin*][left_hand]
+
+* Le Guin is as tough for me as she was when I first read the *Earthsea Trilogy*. Le Guin doesn't really care about action, suspense, or plot. She's more interested in human relationships, and the way in which societies create myths and tales to explain themselves and their world. *The Left Hand of Darkness*, though sometimes a bit too dry, was incredible in the manner in which it built up a completely immersive and detailed world, with as much care and detail as Tolkien. I thought this was pretty incredible, though I wasn't in quite the pensive and patient state that I should have been in to fully enjoy the book.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -146,3 +158,6 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [american_gods]:       https://www.amazon.com/American-Gods-Tenth-Anniversary-Novel/dp/0062472100
 [pump_six]:            https://www.amazon.com/Pump-Other-Stories-Paolo-Bacigalupi/dp/1597802026
 [ninefox_gambit]:      https://www.amazon.com/Ninefox-Gambit-Yoon-Ha-Lee/dp/1781084491
+[one_of_us]:           https://www.amazon.com/One-Us-Massacre-Norway-Aftermath/dp/0374536090
+[ancillary_sword]:     https://www.amazon.com/Ancillary-Sword-Imperial-Radch-Leckie/dp/0316246654
+[left_hand]:           https://www.amazon.com/Left-Hand-Darkness-Ursula-Guin/dp/0441478123
