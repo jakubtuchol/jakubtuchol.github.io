@@ -20,6 +20,15 @@ We will be working with five classic sorting algorithms:
 
 # Runtime Characteristics
 
+| algorithm      | best      | average   | worst     | memory  |
+|----------------|-----------|-----------|-----------|---------|
+| quicksort      | `n log n` | `n log n` | `n^2`     | `log n` |
+| merge sort     | `n log n` | `n log n` | `n log n` | `n`     |
+| heapsort       | `n log n` | `n log n` | `n log n` | 1       |
+| insertion sort | `n`       | `n^2`     | `n^2`     | 1       |
+| shell sort     | `n log n` | `n log n` | `n log n` | 1       |
+| bubble sort    | `n`       | `n log n` | `n log n` | 1       |
+
 # Implementations
 
 ## Insertion Sort
