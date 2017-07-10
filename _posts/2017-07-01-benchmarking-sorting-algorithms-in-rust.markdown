@@ -9,7 +9,7 @@ Every algorithms textbook includes a robust discussion of sorting algorithms, wi
 
 # The Algorithms
 
-We will be working with five classic sorting algorithms:
+We will be working with six classic sorting algorithms:
 
 * insertion sort
 * quick sort
