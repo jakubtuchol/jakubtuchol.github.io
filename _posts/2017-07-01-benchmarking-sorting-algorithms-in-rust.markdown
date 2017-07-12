@@ -29,6 +29,8 @@ We will be working with five classic sorting algorithms:
 | shell sort     | `n log n` | `n log n` | `n log n` | 1       |
 | bubble sort    | `n`       | `n log n` | `n log n` | 1       |
 
+# Benchmarking
+
 # Implementations
 
 ## Insertion Sort

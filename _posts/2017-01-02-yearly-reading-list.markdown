@@ -130,6 +130,18 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Le Guin is as tough for me as she was when I first read the *Earthsea Trilogy*. Le Guin doesn't really care about action, suspense, or plot. She's more interested in human relationships, and the way in which societies create myths and tales to explain themselves and their world. *The Left Hand of Darkness*, though sometimes a bit too dry, was incredible in the manner in which it built up a completely immersive and detailed world, with as much care and detail as Tolkien. I thought this was pretty incredible, though I wasn't in quite the pensive and patient state that I should have been in to fully enjoy the book.
 
+31) [**The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America** by *Erik Larso*][white_city]
+
+* Another of the best books I have read this year. Larson wrote an incredible book balancing the history of a tremendous, yet mostly forgotten, event with an account of a monster at work. Both are fascinating, though I surprisingly ended up enjoying the history of the World's Fair more than the crime accounts. Absolutely astonishing, and will definitely read everything that Larson has written now.
+
+32) [**Columbine** by *Dave Cullen*][columbine]
+
+* This is another book about a terrible event. Difference between this and **One of Us** is that the latter had an incredibly powerful narrative thrust to carry me through the pain. This book did not. While Cullen does a fine job of painting the event, the motivations, and the characters in play, I felt that it was just not enough to balance out or redeem the darkness of the subject material.
+
+33) [**Mr. Fox** by *Helen Oyeyemi*][mr_fox]
+
+* Stunningly beautiful book. I just had no idea what was going on. Oyeyemi is a tremendous writer, and her writing is worth it for the beauty alone. Unfortunately, I'm not bright enough to figure out what happened in this book. Maybe another time.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -161,3 +173,6 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [one_of_us]:           https://www.amazon.com/One-Us-Massacre-Norway-Aftermath/dp/0374536090
 [ancillary_sword]:     https://www.amazon.com/Ancillary-Sword-Imperial-Radch-Leckie/dp/0316246654
 [left_hand]:           https://www.amazon.com/Left-Hand-Darkness-Ursula-Guin/dp/0441478123
+[white_city]:          https://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601
+[columbine]:           https://www.amazon.com/Columbine-Dave-Cullen/dp/0446546925
+[mr_fox]:              https://www.amazon.com/Mr-Fox-Helen-Oyeyemi/dp/1594486182
