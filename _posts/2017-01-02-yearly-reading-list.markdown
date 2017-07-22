@@ -142,6 +142,18 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Stunningly beautiful book. I just had no idea what was going on. Oyeyemi is a tremendous writer, and her writing is worth it for the beauty alone. Unfortunately, I'm not bright enough to figure out what happened in this book. Maybe another time.
 
+34) [**Annihilation** by *Jeff VanderMeer*][annihilation]
+
+* I thought this book was absolutely incredible. VanderMeer creates this incredible setting and vibe that I've never encountered before. Much of the power of this book is the ideas of humans' insignificance in the face of nature and the way it explores these ideas through Area X itself. An absolutely incredible blending of Lovecraft with ecology.
+
+35) [**Authority** by *Jeff VanderMeer*][authority]
+
+* Unfortunately, this was a bit of disappointment. I figured the second book in the trilogy couldn't match *Annihilation*, but *Authority* just doesn't hold a candle to the first book. While there is some interesting spy-shenanigans going on and a nice sense of paranoia, there is very little to match the mystery and horror of the first book.
+
+36) [**Nothing to Envy: Ordinary Lives in North Korea** by *Barbara Demick*][nothing_envy]
+
+* Absolutely brilliant. Demick opens an unfamiliar and brutal world. There is no other book I've heard of that offers such an intimate and unbiased portrait of North Korea.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -176,3 +188,6 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [white_city]:          https://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601
 [columbine]:           https://www.amazon.com/Columbine-Dave-Cullen/dp/0446546925
 [mr_fox]:              https://www.amazon.com/Mr-Fox-Helen-Oyeyemi/dp/1594486182
+[annihilation]:        https://www.amazon.com/Annihilation-Novel-Southern-Reach-Trilogy/dp/0374104093
+[authority]:           https://www.amazon.com/Authority-Novel-Southern-Reach-Trilogy/dp/0374104107
+[nothing_envy]:        https://www.amazon.com/Nothing-Envy-Ordinary-Lives-North/dp/0385523912
