@@ -19,8 +19,7 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 3) [**The Stranger** by *Albert Camus*][stranger]
 
-* I admit, I picked this primarily because I wanted something short to prepare before the next monster. It's a strange book, colored primarily by the detachment of Mersault, and his total detachment from the world. It will probably take a couple more reads to appreciate it fully, but for now, it merely remains disquieting rather than profound.
-
+* I admit, I picked this primarily because I wanted something short to prepare before the next monster. It's a strange book, colored primarily by the detachment of Mersault, and his total detachment from the world. It will probably take a couple more reads to appreciate it fully, but for now, it merely remains disquieting rather than profound.  
 4) [**The Industries of the Future** by *Alec Ross*][industries]
 
 * This was another quick read to balance out tearing through a 600+ page history of the CIA. Thankfully, I was pleasantly surprised. Ross builds an inspiring and hugely optimistic view of the next 50 years, but does it in a way that's very well balanced. He focuses on the downsides of and roadblocks to many of the innovations he talks about in a way that's far more nuanced than most innovation-focused books. I loved this and would recommend it to anyone with a passing interest in technology and the future.
@@ -154,6 +153,14 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Absolutely brilliant. Demick opens an unfamiliar and brutal world. There is no other book I've heard of that offers such an intimate and unbiased portrait of North Korea.
 
+37) [**The Vegetarian** by *Han Kang*][vegetarian]
+
+* I heard and read very mixed things about this book, but I found it absolutely astonishing. Han evokes Kafka pretty strongly, as most reviewers have suggested, but there is much more here. Han asks hugely provocative questions about agency, feminism, and desire, and refuses to answer any of them. Most importantly, Han refuses to answer the fundamental question of "What's actually happening here?", which seemed to frustrate the hell out of most readers. I find the messiness and cold existential terror to be quite comforting.
+
+38) [**Books of Blood, Vols. 1-3** by *Clive Barker*][books_blood]
+
+* Considering how morbid this book is, I had a really fun time with it. While there are the expected handful of stinkers that you have with a short-story collection (I wasn't a huge fan of *Son of Celluloid* or *Scape Goats*), but the vast majority of these stories are absolutely fantastic. There are even a handful (*In the Hills, the Cities*, *Dread* *Jacqueline Ess*) that rank among the most incredible things I've ever read. Barker cares very little about restraint and propriety and provides story after story of blood-churning violence and graphic sex. But there's a lot more to these than just that. *In The Hills, the Cities* especially stands out as absolutely incredible.
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -191,3 +198,5 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [annihilation]:        https://www.amazon.com/Annihilation-Novel-Southern-Reach-Trilogy/dp/0374104093
 [authority]:           https://www.amazon.com/Authority-Novel-Southern-Reach-Trilogy/dp/0374104107
 [nothing_envy]:        https://www.amazon.com/Nothing-Envy-Ordinary-Lives-North/dp/0385523912
+[vegetarian]:          https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111
+[books_blood]:         https://www.amazon.com/Books-Blood-Vols-Clive-Barker/dp/0425165582
