@@ -161,6 +161,26 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 
 * Considering how morbid this book is, I had a really fun time with it. While there are the expected handful of stinkers that you have with a short-story collection (I wasn't a huge fan of *Son of Celluloid* or *Scape Goats*), but the vast majority of these stories are absolutely fantastic. There are even a handful (*In the Hills, the Cities*, *Dread* *Jacqueline Ess*) that rank among the most incredible things I've ever read. Barker cares very little about restraint and propriety and provides story after story of blood-churning violence and graphic sex. But there's a lot more to these than just that. *In The Hills, the Cities* especially stands out as absolutely incredible.
 
+39) [**Leviathan Wakes** by *James S. A. Corey*][leviathan_wakes]
+
+*
+
+40) [**It** by *Stephen King*][it_king]
+
+*
+
+41) [**The Killing Moon** by *N. K. Jemisin*][killing_moon]
+
+*
+
+42) [**The Shadowed Sun** by *N. K. Jemisin*][shadowed_sun]
+
+*
+
+43) [**Caliban's War** by *James S. A. Corey*][caliban_war]
+
+*
+
 [black_flags]:         https://www.amazon.com/Black-Flags-Rise-Joby-Warrick/dp/0804168938
 [shock_doctrine]:      https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
 [stranger]:            https://www.amazon.com/Stranger-Albert-Camus/dp/0679720200
@@ -200,3 +220,8 @@ This year, I'm aiming to read 52 books (one per week for a year). I'll be keepin
 [nothing_envy]:        https://www.amazon.com/Nothing-Envy-Ordinary-Lives-North/dp/0385523912
 [vegetarian]:          https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111
 [books_blood]:         https://www.amazon.com/Books-Blood-Vols-Clive-Barker/dp/0425165582
+[leviathan_wakes]:     https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089
+[it_king]:             https://www.amazon.com/Novel-Stephen-King/dp/1501142976
+[killing_moon]:        https://www.amazon.com/Killing-Moon-N-K-Jemisin/dp/0316187283
+[shadowed_sun]:        https://www.amazon.com/Shadowed-Sun-Dreamblood-N-Jemisin/dp/0316187291
+[caliban_war]:         https://www.amazon.com/Calibans-War-Expanse-James-Corey/dp/0316129062
