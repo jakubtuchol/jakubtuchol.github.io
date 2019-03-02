@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding the smallest missing integer"
+title:  "Interview Questions: Finding the smallest missing integer"
 date:   2019-02-28 16:00:00
 categories: interview-questions rust
 ---
@@ -85,3 +85,8 @@ fn find_missing_number(nums: &[i32]) -> i32 {
 This solution provides the afore-mentioned time-space tradeoff. It utilizes `O(n)` space, since in the worst case, all the elements can be unique positive integers and therefore indexed in the tracking set. As expected, the runtime improvides significantly, providing us with `O(n)` runtime, since you have to iterate over number of elements directly proportional to the size of the array multiple times.
 
 ## Marking Solution
+
+Given that our input is unordered, and given that the problem implies the need to examine every element within an array to find the missing element, we can't do much better than `O(n)` runtime. We can actually improve on the space utilization aspect of the previous solution if we make one simple assumption: the array provided is mutable and we can modify the elements of the array in-place. Given this assumption, we can leverage the array itself as a proxy for the set of seen positive integers that we utilized in the previous problem.
+
+The idea is relatively simple: if there is a missing integer, we know that the smallest missing integer must be less than or equal to the length of the array. Given this, as we iterate through the array to get a sense of the positive integers that are present, we can denote the presence of a positive integer by *marking* the space at the corresponding index.
+
