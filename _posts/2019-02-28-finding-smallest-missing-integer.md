@@ -2,7 +2,7 @@
 layout: post
 title:  "Interview Questions: Finding the smallest missing integer"
 date:   2019-02-28 16:00:00
-categories: interview-questions rust
+categories: interview-questions
 ---
 
 In this post, we'll be covering a common interview problem and a series of solutions for it.
